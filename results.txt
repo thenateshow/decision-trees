@@ -1,0 +1,57 @@
+TEST SET 1
+	Information Gain Results:
+		Training Set
+			Correct:		600
+			Incorrect:		0
+			Accuracy:		1
+		Validation Set
+			Correct:		577
+			Incorrect:		23
+			Accuracy:		0.9616666666666667
+		Test Set
+			Correct:		571
+			Incorrect:		29
+			Accuracy:		0.9516666666666667
+
+	Variance Impurity Results:
+		Training Set
+			Correct:		600
+			Incorrect:		0
+			Accuracy:		1
+		Validation Set
+			Correct:		576
+			Incorrect:		24
+			Accuracy:		0.96
+		Test Set
+			Correct:		565
+			Incorrect:		35
+			Accuracy:		0.9416666666666667
+
+TEST SET 2
+	Information Gain Results:
+		Training Set
+			Correct:		599
+			Incorrect:		1
+			Accuracy:		0.9983333333333333
+		Validation Set
+			Correct:		577
+			Incorrect:		23
+			Accuracy:		0.9616666666666667
+		Test Set
+			Correct:		571
+			Incorrect:		29
+			Accuracy:		0.9516666666666667
+
+	Variance Impurity Results:
+		Training Set
+			Correct:		599
+			Incorrect:		1
+			Accuracy:		0.9983333333333333
+		Validation Set
+			Correct:		576
+			Incorrect:		24
+			Accuracy:		0.96
+		Test Set
+			Correct:		565
+			Incorrect:		35
+			Accuracy:		0.9416666666666667
